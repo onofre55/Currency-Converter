@@ -1,11 +1,11 @@
 # Currency Converter
-An introductory project I built to get started with Ruby. This is a command line application that fetches live exchange rates from OpenExchangeRates.org and converts a specified amount from any currency into another.
+An introductory project I built to get started with Ruby. This is a command-line application that fetches live exchange rates from OpenExchangeRates.org and converts a specified amount from any currency into another.
 I followed a tutorial from [Batoul Alkarim](https://medium.com/@batoulalkarim1) to build the core, then added a feature to list all supported currencies.
 
 # What I learned
 
 * Making HTTP requests in Ruby with Net::HTTP and parsing JSON.
-* Structuring a command line app with prompts and helper methods.
+* Structuring a command-line app with prompts and helper methods.
 * Validating user input and handling unknown currency codes.
 * Sorting and printing data in a readable format.
 
